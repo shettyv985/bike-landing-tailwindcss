@@ -1,9 +1,6 @@
 #Bike-tailwindcss
-
 This website was crafted with care using Tailwind CSS to ensure a seamless experience across all devices.
-
 🏍️ Key Highlights:
-
 Dynamic Hero Section with engaging call-to-actions.
 Full details on specs, accessories, and the high-efficiency motor.
 Visually rich gallery and customizable color options for every taste.
